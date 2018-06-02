@@ -1,0 +1,4 @@
+AuthName "Just for AnonGhost for now!"
+AuthType Basic
+AuthUserFile /var/www/vhosts/AnonGhost.info/httpdocs/.htpasswd
+require valid-user

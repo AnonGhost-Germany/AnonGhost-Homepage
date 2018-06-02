@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+		xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		>
+	<url>
+		<loc>https://www.AnonGhost.info/about_us.de.html</loc>
+		<lastmod>2018-05-10</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+		<xhtml:link
+			rel="alternate"
+			hreflang="de"
+			href="https://www.AnonGhost.info/about_us.de.html" />
+		<xhtml:link
+			rel="alternate"
+			hreflang="en"
+			href="https://www.AnonGhost.info/about_us.en.html" />
+	</url>
+	<url>
+		<loc>https://www.AnonGhost.info/about_us.en.html</loc>
+		<lastmod>2018-05-10</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+		<xhtml:link
+			rel="alternate"
+			hreflang="de"
+			href="https://www.AnonGhost.info/about_us.de.html" />
+		<xhtml:link
+			rel="alternate"
+			hreflang="en"
+			href="https://www.AnonGhost.info/about_us.en.html" />
+	</url>
+	<url>
+		<loc>https://www.AnonGhost.info/contact.de.html</loc>
+		<lastmod>2018-05-10</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+		<xhtml:link
+			rel="alternate"
+			hreflang="de"
+			href="https://www.AnonGhost.info/contact.de.html" />
+		<xhtml:link
+			rel="alternate"
+			hreflang="en"
+			href="https://www.AnonGhost.info/contact.en.html" />
+	</url>
+	<url>
+		<loc>https://www.AnonGhost.info/contact.en.html</loc>
+		<lastmod>2018-05-10</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+		<xhtml:link
+			rel="alternate"
+			hreflang="de"
+			href="https://www.AnonGhost.info/contact.de.html" />
+		<xhtml:link
+			rel="alternate"
+			hreflang="en"
+			href="https://www.AnonGhost.info/contact.en.html" />
+	</url>
+	<url>
+		<loc>https://www.AnonGhost.info/home.de.html</loc>
+		<lastmod>2018-05-10</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+		<xhtml:link
+			rel="alternate"
+			hreflang="de"
+			href="https://www.AnonGhost.info/home.de.html" />
+		<xhtml:link
+			rel="alternate"
+			hreflang="en"
+			href="https://www.AnonGhost.info/home.en.html" />
+	</url>
+	<url>
+		<loc>https://www.AnonGhost.info/home.en.html</loc>
+		<lastmod>2018-05-10</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+		<xhtml:link
+			rel="alternate"
+			hreflang="de"
+			href="https://www.AnonGhost.info/home.de.html" />
+		<xhtml:link
+			rel="alternate"
+			hreflang="en"
+			href="https://www.AnonGhost.info/home.en.html" />
+	</url>
+	<url>
+		<loc>https://www.AnonGhost.info/index.html</loc>
+		<lastmod>2018-05-10</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://www.AnonGhost.info/operations.html</loc>
+		<lastmod>2018-05-10</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://www.AnonGhost.info/opicarus.html</loc>
+		<lastmod>2018-05-10</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://www.AnonGhost.info/opisrael.html</loc>
+		<lastmod>2018-05-10</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://www.AnonGhost.info/oppetrol.html</loc>
+		<lastmod>2018-05-10</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://www.AnonGhost.info/opusa.html</loc>
+		<lastmod>2018-05-10</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://www.AnonGhost.info/opvendetta.html</loc>
+		<lastmod>2018-05-10</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://www.AnonGhost.info/videos.html</loc>
+		<lastmod>2018-05-10</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+</urlset>

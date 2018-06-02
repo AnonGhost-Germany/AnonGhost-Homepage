@@ -1,0 +1,4 @@
+User-agent: *
+Sitemap: https://www.AnonGhost.info/sitemap.xml
+Disallow: /groups.sav.html
+Disallow: /members.sav.html
